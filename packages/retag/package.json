@@ -21,7 +21,7 @@
     "@definitelytyped/definitions-parser": "^0.0.113-next.17",
     "@definitelytyped/typescript-versions": "^0.0.113-next.17",
     "@definitelytyped/utils": "^0.0.113-next.17",
-    "semver": "^7.3.7",
+    "semver": "^6.3.1",
     "yargs": "^15.3.1"
   },
   "devDependencies": {
