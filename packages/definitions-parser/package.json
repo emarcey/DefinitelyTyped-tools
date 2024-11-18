@@ -24,7 +24,7 @@
     "@definitelytyped/utils": "^0.0.113-next.17",
     "@types/node": "^14.14.35",
     "fs-extra": "^9.1.0",
-    "semver": "^7.3.7"
+    "semver": "^6.3.1"
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.8"
